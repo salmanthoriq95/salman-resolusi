@@ -3,3 +3,5 @@ Resolusi Salman :
 - belajar C++ dari mulai dasar sampai OOP
 - belajar unity
 - mengerti algoritma sepenuhnya
+- harus bisa membuat game
+- paham semantik programming
