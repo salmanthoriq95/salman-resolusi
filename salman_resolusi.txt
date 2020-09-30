@@ -3,6 +3,7 @@ Resolusi Salman :
 - belajar C++ dari mulai dasar sampai OOP
 - belajar unity
  *belajar c#
+ *bisakah menggunakan C++?
 - mengerti algoritma sepenuhnya
 - paham semantik programming
 - belajar setiap hari
