@@ -5,3 +5,4 @@ Resolusi Salman :
 - mengerti algoritma sepenuhnya
 - paham semantik programming
 - belajar setiap hari
+- menulis cerita setiap hari
