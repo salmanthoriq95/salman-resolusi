@@ -2,7 +2,8 @@ Resolusi Salman :
 - belajar git dan github sampai mnegerti sepenuhnya
 - belajar C++ dari mulai dasar sampai OOP
 - belajar unity
-- mengerti algoritma sepenuhnya
-- paham semantik programming
+ *menggunakan java
+ *bisakah menggunakan C++?
 - belajar setiap hari
+ *belajar manajemen waktu
 - menulis cerita setiap hari
