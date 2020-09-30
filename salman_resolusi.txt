@@ -1,0 +1,5 @@
+Resolusi Salman :
+- belajar git dan github sampai mnegerti sepenuhnya
+- belajar C++ dari mulai dasar sampai OOP
+- belajar unity
+- mengerti algoritma sepenuhnya
